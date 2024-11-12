@@ -57,3 +57,6 @@ View predictions and visualizations, and download the predictions as a CSV file 
 Stop the App
 
 To stop the app, go to the terminal where Streamlit is running and press Ctrl + C.
+
+#ScreenShots
+![Screenshot 2024-11-12 171744](https://github.com/user-attachments/assets/ada9d344-ea09-4362-99ca-ad444c3afaeb)
