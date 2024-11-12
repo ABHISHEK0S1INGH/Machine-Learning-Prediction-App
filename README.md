@@ -78,6 +78,9 @@ This app is designed for data scientists, analysts, or anyone needing a quick an
 Here are some screenshots of the app in action:
 
 ![App Screenshot](https://github.com/user-attachments/assets/ada9d344-ea09-4362-99ca-ad444c3afaeb)
+https://github.com/ABHISHEK0S1INGH/Machine-Learning-Prediction-App/blob/c9e8ffa6581dfd572f34aa81a8100e7ed9ca3fbe/App_ScreenShot/Screenshot%202024-11-12%20173741.png
+https://github.com/ABHISHEK0S1INGH/Machine-Learning-Prediction-App/blob/c9e8ffa6581dfd572f34aa81a8100e7ed9ca3fbe/App_ScreenShot/Screenshot%202024-11-12%20173753.png
+https://github.com/ABHISHEK0S1INGH/Machine-Learning-Prediction-App/blob/c9e8ffa6581dfd572f34aa81a8100e7ed9ca3fbe/App_ScreenShot/Screenshot%202024-11-12%20173802.png
 
 
 
